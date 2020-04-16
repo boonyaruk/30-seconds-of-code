@@ -1,8 +1,2 @@
 1. Pornsak
-<<<<<<< HEAD
-2. Metha
-=======
-2. Boonyaruk
->>>>>>> master
-
 3. Metha
